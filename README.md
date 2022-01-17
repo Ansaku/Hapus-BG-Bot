@@ -33,7 +33,7 @@ License -> https://github.com/Ansaku/Penghapus-Background/blob/main/LICENSE
 
 ```sh
 git clone https://github.com/Ansaku/Penghapus-Background
-cd Remove-BG-Bot
+cd Penghapus-Background
 pip3 install -r requirements.txt
 # <Buat Variabel dengan tepat>
 python3 main.py
