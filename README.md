@@ -23,7 +23,6 @@ License -> https://github.com/Ansaku/Penghapus-Background/blob/main/LICENSE
 
 </details>
 
----
 
 ## Deploy
 
@@ -53,7 +52,6 @@ python3 main.py
 
 </details>
 
----
 
 ## Variabel
 
@@ -68,4 +66,3 @@ python3 main.py
 
 </details>
 
----
