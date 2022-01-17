@@ -1,0 +1,21 @@
+{
+    "name": "Penghapus-Background",
+    "description": "Bot telegram penghapus latar belakang foto dengan pyrogram framework.",
+    "repository": "https://github.com/Ansaku/Penghapus-Background",
+    "keywords": ["removebg api", "photo", "penghapus background", "telegram bot"],
+    "env": {
+        "BOT_TOKEN": {
+            "description": "Token Bot Anda dari @Botfather"
+        },
+        "API_ID": {
+            "description": "API_ID Anda dari https://my.telegram.org/apps"
+        },
+        "API_HASH": {
+            "description": "API_HASH Anda dari https://my.telegram.org/apps"
+        },
+        "REMOVEBG_API": {
+            "description": "REMOVEBG_API Anda dari remove.bg/api"
+        }
+    },
+    "buildpacks": [{"url": "heroku/python"}]
+}
