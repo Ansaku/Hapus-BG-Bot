@@ -15,7 +15,15 @@ License -> https://github.com/Ansaku/Penghapus-Background/blob/main/LICENSE
 
 ## Demo Bot
 
+<details>
+  <summary><b>Demo Bot</b></summary>
+<br/>
+
 <a href="https://t.me/HapusBGbot"><img src="https://img.shields.io/badge/Demo_Bot-2cb6e0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+
+</details>
+
+---
 
 ## Deploy
 
